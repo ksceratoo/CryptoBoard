@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import HomePage from "./pages/Home";
+import HomePage from "./pages/home";
 import { Routes, Route } from "react-router";
 import AboutPage from "./pages/about";
 import Header from "./components/Header";
